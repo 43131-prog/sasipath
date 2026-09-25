@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ตะลอนกิน ตะลอนเที่ยววันหยุด - Finally Vlog</title>
+    <style>
+        :root {
+            --primary: #ff6b6b;
+            --secondary: #4ecdc4;
+            --dark: #2f2f2f;
+            --light: #f7f9fc;
+            --accent: #ffe66d;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Sarabun', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            color: var(--dark);
+            background-color: var(--light);
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary), #ee5253);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+        }
+
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .meta-info {
+            margin-top: 15px;
+            font-size: 0.9rem;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: -30px auto 40px auto;
+            padding: 0 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+            margin-bottom: 30px;
+        }
+
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--light);
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+
+        p {
+            margin-bottom: 15px;
+            color: #555;
+        }
+
+        ul {
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+
+        li {
+            margin-bottom: 8px;
+            color: #555;
+        }
+
+        blockquote {
+            background-color: #fff9e6;
+            border-left: 5px solid var(--accent);
+            padding: 15px 20px;
+            margin: 20px 0;
+            font-style: italic;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .highlight-box {
+            background-color: #e8f8f5;
+            border: 1px solid var(--secondary);
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .highlight-box h3 {
+            color: #2e8b57;
+            margin-bottom: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            background: var(--dark);
+            color: white;
+            margin-top: 40px;
+        }
+
+        .badge {
+            background: var(--secondary);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <span class="badge">Vlog Review</span>
+        <h1>🎬 ตะลอนกิน ตะลอนเที่ยววันหยุดกับ Vlog สุดพิเศษ!</h1>
+        <p>สรุปทริปสุดสนุก อิ่มอร่อยตลอดวันกับบรรยากาศสุดชิล</p>
+        <div class="meta-info">
+            <span>📅 อ้างอิงจาก: Finally Vlog</span>
+            <span>👤 งานบล็อกของครูอภิเชษ</span>
+        </div>
+    </header>
+
+    <div class="container">
+        <article class="card">
+            <h2>📍 จุดหมายแรก: ตะลุยโลตัส & ย้อนวัยโซนเด็กเล่น</h2>
+            <p>หลังจากนัดรวมตัวและเดินทางมาถึงจุดหมายแรกอย่าง <strong>โลตัส</strong> พร้อมกับรอเพื่อนร่วมทาง เราก็พุ่งตรงไปกันที่ <strong>ศูนย์อาหาร (Food Court)</strong> เพื่อเตรียมพร้อมพลังงานสำหรับการตะลอนเที่ยวในวันนี้</p>
+            <p>แต่ก่อนจะหาของกินจานหลัก เราแวะไปเดินเล่นกันที่ <strong>โซนเด็กเล่น</strong> ย้อนวัยยิ้มแย้มแจ่มใส สนุกสนานกันยกแก๊ง!</p>
+        </article>
+
+        <article class="card">
+            <h2>🍦 พลาดไม่ได้! เมนูเด็ดไอเทม Ultra Smooth</h2>
+            <p>ก่อนจะออกจากโลตัส มีหนึ่ง Signature ที่บอกเลยว่า <em>"ถ้ามาแล้วพลาดไม่ได้เด็ดขาด"</em> นั่นก็คือ <strong>DQ (Dairy Queen)</strong> นั่นเอง!</p>
+            
+            <div class="highlight-box">
+                <h3>✨ ไฮไลท์ไอศกรีม Dairy Queen</h3>
+                <ul>
+                    <li><strong>ความฟินระดับ Ultra Smooth:</strong> นุ่มละมุนลิ้น ชนิดที่ว่า "ไม่ต้องเคี้ยวกันเลยทีเดียว"</li>
+                    <li><strong>ความรู้สึกหลังทาน:</strong> อร่อยถูกใจทุกคน ฟินสุดๆ จนต้องยกนิ้วให้!</li>
+                </ul>
+            </div>
+        </article>
+
+        <article class="card">
+            <h2>🍽️ เช็คอินร้านดัง: Tameen Land กับมื้อเย็นจัดเต็ม!</h2>
+            <p>เสร็จจากของหวานที่โลตัส เราเดินทางต่อไปยังจุดหมายถัดไป นั่นคือร้าน <strong>Tameen Land</strong> บรรยากาศภายในร้านดีมาก นั่งสบายๆ ชิลๆ เหมาะกับการทานอาหารและพักผ่อน</p>
+            
+            <p>สำหรับมื้อนี้เราจัดหนักจัดเต็มกับเมนูหลากหลาย:</p>
+            <ul>
+                <li>🍝 <strong>สปาเกตตีซอสมะเขือเทศ</strong> - รสชาติเข้มข้นกำลังดี</li>
+                <li>🍲 <strong>สุกี้</strong> - ร้อนๆ อร่อยลงตัว</li>
+                <li>🌶️ <strong>ผัดกะเพราจานเด็ด</strong> - รสจัดจ้านถึงใจ</li>
+                <li>🥤 <strong>เครื่องดื่ม:</strong> โค้กเย็นๆ และชามะนาวหวานเจี๊ยบชื่นใจ</li>
+            </ul>
+
+            <blockquote>
+                "รสชาติอร่อยมาก น่าทานสุดๆ จัดไปชิลๆ ทุกคนกินกันอย่างมีความสุข"
+            </blockquote>
+        </article>
+
+        <article class="card">
+            <h2>🎬 สรุปทริป</h2>
+            <p>หลังจากอิ่มอร่อยกับอาหารมื้อใหญ่และใช้เวลาร่วมกันจนเต็มที่ ก็ได้เวลาบอกลาและเดินทางกลับ ถือเป็นอีกหนึ่งวันเต็มๆ ที่ได้ทั้งความสนุก ความสุข และของอร่อยกลับบ้านไปแบบเต็มอิ่ม</p>
+            <p>ขอบคุณทุกคนที่ติดตามรับชมและอ่านมาจนถึงตอนนี้นะครับ แล้วพบกันใหม่ทริปหน้า สวัสดีครับ!</p>
+        </article>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Blog Content from Finally Vlog. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
